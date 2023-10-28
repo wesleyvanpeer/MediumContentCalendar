@@ -19,5 +19,6 @@
   "homepage": "https://github.com/wesleyvanpeer/MediumContentCalendar#readme",
   "dependencies": {
     "express": "^4.18.2"
-  }
+  },
+  "proxy": "http://localhost:3000"
 }
