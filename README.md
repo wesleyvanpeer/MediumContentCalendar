@@ -1,1 +1,1 @@
-# MediumEarningsOptimizer
+# MediumContentCalendar
